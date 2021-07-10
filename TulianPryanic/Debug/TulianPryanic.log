@@ -1,0 +1,4 @@
+﻿  TulianPryanic.cpp
+C:\Users\targa\source\repos\TulianPryanic\TulianPryanic\TulianPryanic.cpp(50,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\targa\source\repos\TulianPryanic\TulianPryanic\TulianPryanic.cpp(66): warning C4715: factorial: значение возвращается не при всех путях выполнения
+  TulianPryanic.vcxproj -> C:\Users\targa\source\repos\TulianPryanic\Debug\TulianPryanic.exe
